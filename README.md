@@ -1,2 +1,4 @@
 # offload-controller
-path controller to choose the best offload strategy
+Path controller to choose the best offload strategy
+using a MDP model.
+
